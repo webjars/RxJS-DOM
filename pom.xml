@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>RxJS-DOM</artifactId>
-    <version>4.0.1-SNAPSHOT</version>
+    <version>4.0.1</version>
     <name>RxJS-DOM</name>
     <description>WebJar for RxJS-DOM</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/RxJS-DOM</url>
         <connection>scm:git:https://github.com/webjars/RxJS-DOM.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/RxJS-DOM.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>RxJS-DOM-4.0.1</tag>
     </scm>
     
     <build>
